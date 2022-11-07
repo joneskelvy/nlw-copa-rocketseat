@@ -35,7 +35,7 @@ O Calendário da Copa é um projeto que mostra a tabela de jogos da primeira fas
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/0uHXEOMos5Fdxcu34UyxFh/Calend%C3%A1rio-de-Jogos-(Community)-(Community)?node-id=175%3A1815>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
